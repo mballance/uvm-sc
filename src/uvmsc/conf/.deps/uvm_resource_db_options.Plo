@@ -1,0 +1,4 @@
+uvm_resource_db_options.lo: uvm_resource_db_options.cpp \
+ ../../../src/uvmsc/conf/uvm_resource_db_options.h
+
+../../../src/uvmsc/conf/uvm_resource_db_options.h:

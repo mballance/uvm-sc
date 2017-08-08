@@ -1,0 +1,4 @@
+uvm_resource_options.lo: uvm_resource_options.cpp \
+ ../../../src/uvmsc/conf/uvm_resource_options.h
+
+../../../src/uvmsc/conf/uvm_resource_options.h:
